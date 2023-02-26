@@ -167,7 +167,7 @@ He is much harder to defeat than the previous enemies you have encountered, but 
 reward for defeating him is you freedom from Exiles Mesa and a permanent home in 
 Hwen.
 
-This is your final chance to use and health potions you have. Good Luck!"""
+This is your final chance to use any health potions you have. Good Luck!"""
 
 COMPLETE_GAME = """
 **************************************************************************************
