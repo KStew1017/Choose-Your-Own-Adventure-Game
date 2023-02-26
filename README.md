@@ -1,6 +1,6 @@
 # Choose Your Own Adventure  
 
-This game takes place in the fantasy world of Iomore.  
+This is a short text based game that takes place in the fantasy world of Iomore.  
 
 ![World map of Iomore](https://github.com/KStew1017/Choose-Your-Own-Adventure-Game/blob/main/Iomore4K.jpg)  
 
